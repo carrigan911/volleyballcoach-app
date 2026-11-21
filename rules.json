@@ -1,0 +1,30 @@
+{
+  "version": 4,
+  "asOf": "2026-11-19",
+  "sets": {
+    "nfhs": {
+      "label": "NFHS (high school)",
+      "subLimit": 18, "maxLiberos": 2, "servingTeamOverlapExempt": false, "secondContactDoubleLegal": true, "handsAboveHeadServeIllegal": true,
+      "reentryOriginalSpotOnly": true, "liberoServesOnePosition": true, "liberoMayServe": true,
+      "timeoutsPerSet": 2, "timeoutSec": 60, "setTo": 25, "decidingSetTo": 15, "winBy": 2, "bestOf": 5,
+      "unverified": [],
+      "sources": ["https://a-us.storyblok.com/f/1022696/x/3aed0ccb23/2026-27-nfhs-volleyball-comments-on-the-rules.pdf", "https://a-us.storyblok.com/f/1022696/x/660e6f5b53/2026-27-nfhs-volleyball-rules-interpretations-final.pdf", "https://nfhs.org/resources/sports/volleyball-rules-changes-2025-26", "https://nfhs.org/stories/libero-rules-adjusted-in-high-school-volleyball", "https://assets.nfhs.org/storyblok/f/1022696/x/01678c99ff/2025_rulecomparison_ncaa-nfhs-usav_final.pdf"]
+    },
+    "usav": {
+      "label": "USAV (club)",
+      "subLimit": 15, "maxLiberos": 2, "servingTeamOverlapExempt": false, "secondContactDoubleLegal": true, "handsAboveHeadServeIllegal": true,
+      "reentryOriginalSpotOnly": true, "liberoServesOnePosition": true, "liberoMayServe": true,
+      "timeoutsPerSet": 2, "timeoutSec": 30, "setTo": 25, "decidingSetTo": 15, "winBy": 2, "bestOf": 3,
+      "unverified": [],
+      "sources": ["https://usavolleyball.org/wp-content/uploads/2023/03/2025-2027-USAV-Indoor-Rules-Book_FINAL.pdf", "https://usavolleyball.org/resources-for-officials/rulebooks-and-interpretations/"]
+    },
+    "fivb": {
+      "label": "FIVB (international)",
+      "subLimit": 6, "maxLiberos": 2, "servingTeamOverlapExempt": true, "secondContactDoubleLegal": false, "handsAboveHeadServeIllegal": true,
+      "reentryOriginalSpotOnly": true, "liberoServesOnePosition": false, "liberoMayServe": false,
+      "timeoutsPerSet": 2, "timeoutSec": 30, "setTo": 25, "decidingSetTo": 15, "winBy": 2, "bestOf": 5,
+      "unverified": [],
+      "sources": ["https://www.fivb.com/wp-content/uploads/2025/01/FIVB-Volleyball_Rules2025_2028-EN-v05.pdf", "https://www.fivb.com/volleyball/the-game/official-volleyball-rules/"]
+    }
+  }
+}
